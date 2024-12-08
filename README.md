@@ -34,9 +34,9 @@
 
 ## 👩🏿‍🤝‍👩🏿 Contributors
  - [김진호](https://github.com/1971240) : 팀장, FE
- - [이승언](https://github.com/unvictory2) : FE
+ - [이승언](https://github.com/unvictory2) : FE, Prompt Engineering
  - [신동현](https://github.com/whikih34) : FE
- - [서준영](https://github.com/Jun-Young-Seo) : BE, Deploy
+ - [서준영](https://github.com/Jun-Young-Seo) : BE, Deploy, Prompt Engineering
 
 
 ## 🎨
