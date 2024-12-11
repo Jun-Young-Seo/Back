@@ -19,7 +19,8 @@
 ## 👀 작동화면 보기
 시현 영상 Youtube : [https://youtu.be/xqzVTz0mM-Q](https://www.youtube.com/watch?v=0KbuAUvdJpM)
 
-최종 발표 자료 및 정리 : [Project_Result.pdf](https://github.com/user-attachments/files/18051505/Project_Result.pdf)
+## 📃 발표자료 & 프로젝트 결과 보기
+📃 : [Project_Result.pdf](https://github.com/user-attachments/files/18051505/Project_Result.pdf)
 
 
 
